@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EJERCICIO_20_ABRIL</string>
+    <string name="hint_palabra">Ingrese Palabra</string>
+    <string name="minuscula">Minuscula</string>
+    <string name="btn_procesar">Procesar</string>
+    <string name="btn_contar">Contar</string>
+</resources>
